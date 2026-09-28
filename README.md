@@ -1,7 +1,7 @@
 # Hi there 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Building+software+that+solves+real+problems...;Engineering+digital+solutions+for+businesses...;Creating+and+scaling+products+like+Makindye+Connect...;Corporate+Software+%7C+Web+%7C+Data+%7C+Systems" alt="DivineCorpTech dynamic text" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Building+software+that+solves+real+problems...;Engineering+digital+solutions+for+businesses...;Corporate+Software+%7C+Web+%7C+Data+%7C+Systems" alt="DivineCorpTech dynamic text" />
 </p>
 
 ## 👤 About DivineCorpTech
